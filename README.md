@@ -1,6 +1,8 @@
-# 📊 Sprint 7 Final Project — Análisis Estadístico de Uso y Outliers (TripleTen)
+# Análisis Estadístico de Uso y Outliers (TripleTen)
 
-Proyecto final del Sprint 7 enfocado en **análisis estadístico para detectar patrones de uso, segmentar clientes e identificar outliers**, utilizando datos de una empresa de telecomunicaciones.
+Proyecto que realice en el bootcamp de Analisis de Datos de **TripleTen** en el cual utilice: **análisis estadístico para detectar patrones de uso, segmentar clientes e identificar outliers**.
+
+En este proyecto realice una limpieza y estandarización exhaustiva de datos para poder detectar comportamientos atípicos en los usuarios y poder comprender las necesidades de los diferentes clientes. Al tener una base de datos sólida, limpia y estructurada pude diseñar un reporte ejecutivo que permite a la empresa visualizar las diferentes segmentaciones de sus clientes, sus clientes más frecuentes y una sólida guía de recomendaciones basadas en datos que permiten diseñar estrategias de negocios enfocado en los resultados del análisis de datos.
 
 ---
 
